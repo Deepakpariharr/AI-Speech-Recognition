@@ -1,6 +1,6 @@
 # AI Speech Recognition Task Manager
 
-A full-stack voice-enabled task tracking application that converts spoken input into structured tasks using speech recognition and OpenAI. The extracted tasks are displayed on a drag-and-drop Kanban board with full CRUD support. This project was built according to the SDE Assignment: Voice Enabled Task Tracker.
+A full-stack voice-enabled task tracking application that converts spoken input into structured tasks using speech recognition and OpenAI. The extracted tasks are displayed on a drag-and-drop Kanban board with full CRUD support.
 
 ## Overview
 This application allows users to:
